@@ -1,0 +1,61 @@
+form{
+    color: white;
+}
+body {
+  background: powderblue 
+  url('https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg')
+    no-repeat right top ;
+    background-blend-mode: multiply;
+    background-size: cover;
+
+
+  
+ 
+}
+h1.center {
+text-align: center;
+
+background-color: orange;
+clip: rect(0px,50px,50px,0px);
+  
+}
+
+
+#col{
+color: lightgreen;
+}
+a:link {
+color: green;
+background-color: transparent;
+text-decoration: underline;
+}
+tr:nth-child(even) {
+background-color: #85eded;
+}
+
+.para{
+color : rgb(255, 255, 255);
+}
+ol{
+background-color: #26d4d4;
+block-size: 40px;
+
+}
+
+
+th, td {
+
+border-radius: 0px;
+border:1px dashed black;
+border-collapse: collapse;
+}
+
+h3{
+  border: 1px solid black;
+  background-color: lightblue;
+ /* padding: 25px;*/
+  padding-block: 30px 30px;
+  padding-inline: 5%;
+  outline: thick ridge rgb(226, 10, 46);
+
+}
