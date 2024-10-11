@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExampleClass",
+            "request": "launch",
+            "mainClass": "Array.ExampleClass",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.bubbleSort",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.insertionSort",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.mergeSort",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "Array.Sorting.selectionSort",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "IntegerToEnglish",
+            "request": "launch",
+            "mainClass": "IntegerToEnglish",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Matrix",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "StringExample",
+            "request": "launch",
+            "mainClass": "StringExample",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "buySellStock",
+            "request": "launch",
+            "mainClass": "buySellStock",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "ClassandObjects",
+            "request": "launch",
+            "mainClass": "javacode.ClassandObjects",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "javacode.class_objects.Car",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "javacode.class_objects.Main",
+            "projectName": "Leet Practice_d90b219d"
+        },
+        {
+            "type": "java",
+            "name": "kthDistinctArray",
+            "request": "launch",
+            "mainClass": "kthDistinctArray",
+            "projectName": "Leet Practice_d90b219d"
+        }
+    ]
+}

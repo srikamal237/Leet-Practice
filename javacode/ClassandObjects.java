@@ -1,4 +1,4 @@
-package JAVA;
+package javacode;
 
 public class ClassandObjects {
 
