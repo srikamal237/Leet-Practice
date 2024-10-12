@@ -1,4 +1,4 @@
-package java.class_objects;
+package javacode.class_objects;
 
 public class Car {
     private String company;
